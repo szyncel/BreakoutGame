@@ -1,5 +1,13 @@
+body{
+    background-color: black;
+    background-image: url('http://undertaper.com/wp-content/uploads/2014/02/body-background.jpg');
+    background-repeat: repeat;
+}
+
+
 #myCanvas{
-    background: silver;
+    background: black;
+    /* background-image: url('http://www.angelfire.com/ex/lizz12315/back_32.gif'); */
     display: block;
     margin: 0 auto;
 }
